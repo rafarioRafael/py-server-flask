@@ -1,0 +1,1 @@
+{'OsName': 'Microsoft Windows 11 Pro', 'WindowsProductName': 'Windows 10 Pro', 'CsName': 'TBADEV14', 'OsArchitecture': '64 bits', 'WindowsVersion': '2009'}
