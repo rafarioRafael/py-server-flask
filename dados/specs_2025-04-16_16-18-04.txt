@@ -1,1 +1,0 @@
-{'Version': '10.0.22631', 'Username': 'rafael.miranda', 'Disk_GB': 110.79, 'Hostname': 'TBADEV14', 'OS': 'Microsoft Windows 11 Pro', 'Uptime': '/Date(1744313544549)/', 'IP': '10.90.10.175', 'RAM_GB': 8, 'CPU': 'Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz'}

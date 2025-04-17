@@ -12,7 +12,7 @@ $dados = @{
 
 $json = $dados | ConvertTo-Json -Depth 3
 
-Invoke-RestMethod -Uri "http://10.90.10.175:5000/receber" `
+Invoke-RestMethod -Uri "http://your_flask_ip/receber" `
     -Method POST `
     -Body $json `
     -ContentType "application/json"
